@@ -4,3 +4,5 @@ lean
 d 
 sdf
 uyhjk
+new issue
+creat branch
